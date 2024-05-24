@@ -1,7 +1,7 @@
 
 
 function Heap()
-{
+{ 
     //Setting Time complexities
     document.getElementById("Time_Worst").innerText="O(N log N)";
     document.getElementById("Time_Average").innerText="Θ(N log N)";
