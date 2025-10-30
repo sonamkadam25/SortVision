@@ -6,7 +6,7 @@
   font-weight: bold;
   text-transform: uppercase;
 }
- 
+
 body {
   background-image: url("https://www.sortvisualizer.com/static/css/mainbg.jpg");
   font-family: "Electrolize", sans-serif;
@@ -18,7 +18,7 @@ nav {
   display: grid;
   grid-template-columns: 30% 60%;
   -moz-column-gap: 10%;
-       column-gap: 10%;
+  column-gap: 10%;
   padding: 0% 5%;
 }
 nav .array-inputs {
@@ -121,7 +121,7 @@ section #Info_Cont1 {
   height: 200px;
   overflow: hidden;
   border-radius: 4px;
-  border: 2px solid #E8E8E8;
+  border: 2px solid #e8e8e8;
 }
 section #Info_Cont1 h3 {
   text-decoration: underline;
@@ -145,7 +145,7 @@ section #Info_Cont2 {
   height: 200px;
   overflow: hidden;
   border-radius: 4px;
-  border: 2px solid #E8E8E8;
+  border: 2px solid #e8e8e8;
 }
 section #Info_Cont2 h3 {
   text-decoration: underline;
@@ -157,4 +157,4 @@ section #Info_Cont2 p {
 
 .hide {
   display: none;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
