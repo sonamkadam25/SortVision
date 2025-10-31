@@ -5,8 +5,7 @@
 ![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
 ![Algorithm](https://img.shields.io/badge/Core-Algorithms-lightgrey)
 
-**SortVision** is an interactive web application that helps users visualize how different sorting algorithms work in real time.  
-It provides an engaging and educational experience for understanding algorithm efficiency, comparisons, and time complexity.
+**SortVision** is an interactive web application that helps users visualize how different sorting algorithms work in real time. It provides an engaging and educational experience for understanding algorithm efficiency, comparisons, and time complexity.
 
 ---
 
