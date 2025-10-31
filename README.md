@@ -11,17 +11,17 @@ It provides an engaging and educational experience for understanding algorithm e
 
 ---
 
-## 🎯 Features
+## 1️⃣ Features
 
-- 🔄 **Multiple Sorting Algorithms:** Bubble, Selection, Insertion, Merge, Quick, and Heap Sort  
-- ⚡ **Speed Control:** Adjust the sorting speed dynamically  
-- 📊 **Array Size Control:** Change the number of elements in the array instantly  
-- 🎨 **Interactive Visualization:** Watch how elements swap, shift, and sort in real time  
-- 🧮 **Time & Space Complexity Display:** Shows complexity for each algorithm  
+-  **Multiple Sorting Algorithms:** Bubble, Selection, Insertion, Merge, Quick, and Heap Sort  
+-  **Speed Control:** Adjust the sorting speed dynamically  
+-  **Array Size Control:** Change the number of elements in the array instantly  
+-  **Interactive Visualization:** Watch how elements swap, shift, and sort in real time  
+-  **Time & Space Complexity Display:** Shows complexity for each algorithm  
 
 ---
 
-## 🧩 Algorithms Included
+## 2️⃣ Algorithms Included
 | Algorithm | Best Case | Average Case | Worst Case | Space Complexity |
 |------------|------------|---------------|--------------|------------------|
 | Bubble Sort | Ω(n) | Θ(n²) | O(n²) | O(1) |
@@ -33,7 +33,7 @@ It provides an engaging and educational experience for understanding algorithm e
 
 ---
 
-## 🎨 Color-Coded Visualization
+## 3️⃣ Color-Coded Visualization
 
 Each color represents a specific step in the sorting process:
 
@@ -47,7 +47,7 @@ Each color represents a specific step in the sorting process:
 
 ---
 
-## 🧠 Learning Outcomes
+## 4️⃣ Learning Outcomes
 
 - Visual understanding of how different sorting algorithms operate  
 - Comparative analysis of algorithm efficiency  
