@@ -1,6 +1,5 @@
 # 🌀 SortVision – Sorting Algorithm Visualizer
 
-
 ![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
 ![CSS](https://img.shields.io/badge/Styling-CSS-blue)
 ![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
@@ -22,6 +21,7 @@ It provides an engaging and educational experience for understanding algorithm e
 ---
 
 ## 2️⃣ Algorithms Included
+
 | Algorithm | Best Case | Average Case | Worst Case | Space Complexity |
 |------------|------------|---------------|--------------|------------------|
 | Bubble Sort | Ω(n) | Θ(n²) | O(n²) | O(1) |
