@@ -1,5 +1,11 @@
 # 🌀 SortVision – Sorting Algorithm Visualizer
 
+
+![HTML](https://img.shields.io/badge/Frontend-HTML-orange)
+![CSS](https://img.shields.io/badge/Styling-CSS-blue)
+![JavaScript](https://img.shields.io/badge/Logic-JavaScript-yellow)
+![Algorithm](https://img.shields.io/badge/Core-Algorithms-lightgrey)
+
 **SortVision** is an interactive web application that helps users visualize how different sorting algorithms work in real time.  
 It provides an engaging and educational experience for understanding algorithm efficiency, comparisons, and time complexity.
 
@@ -27,8 +33,7 @@ It provides an engaging and educational experience for understanding algorithm e
 
 ---
 
-✨ Features
-🎨 Color-Coded Visualization
+## 🎨 Color-Coded Visualization
 
 Each color represents a specific step in the sorting process:
 
@@ -39,3 +44,15 @@ Each color represents a specific step in the sorting process:
 🟥 Red: Elements identified in the wrong position and about to be moved
 
 🟩 Green: Elements placed in the correct position
+
+---
+
+## 🧠 Learning Outcomes
+
+- Visual understanding of how different sorting algorithms operate  
+- Comparative analysis of algorithm efficiency  
+- Enhanced understanding of **Big O notation** and algorithmic complexity
+
+---
+
+✨ *Developed with ❤️ by Sonam Ravindra Kadam*
